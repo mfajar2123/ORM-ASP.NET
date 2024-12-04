@@ -8,5 +8,5 @@ Proyek ini merupakan implementasi sederhana ORM menggunakan ASP.NET.
 
 ## 📄 Dokumentasi
 
-Dokumentasi API dapat ditemukan di folder [**documentation**](./documentation).
+Dokumentasi API dapat ditemukan di folder [**documentation**](./Documentation).
 
